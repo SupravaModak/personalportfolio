@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec65adb8.css",
+    "main.js": "/static/js/main.b781e141.js",
+    "static/media/weather.png": "/static/media/weather.c61bac36e97a4707df9c.png",
+    "static/media/buildfitness.jpg": "/static/media/buildfitness.0e0fab1ea5036afb1142.jpg",
+    "static/media/PHOTO3.jpg": "/static/media/PHOTO3.84f22c704f952b8f87bf.jpg",
+    "static/media/java.png": "/static/media/java.2a1399f78477e0e27b8e.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/c.png": "/static/media/c.83dfa097dfa94f707a41.png",
+    "static/media/E-shop.jpg": "/static/media/E-shop.ac2527a2289b9b95cf54.jpg",
+    "static/media/python.png": "/static/media/python.f1a07429fcf04073a41e.png",
+    "static/media/nextjs.png": "/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.ec65adb8.css.map": "/static/css/main.ec65adb8.css.map",
+    "main.b781e141.js.map": "/static/js/main.b781e141.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec65adb8.css",
+    "static/js/main.b781e141.js"
+  ]
+}
