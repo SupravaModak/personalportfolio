@@ -19,9 +19,6 @@ return (
                 as well as Machine Learning using Python. I just love 
                 coding since my school days and maintained it through my 
                 college life. Ask me anything under the sun about these.
-            </p>
-            <br />
-            <p className='text-xl'>
                 I am also into football and singing as I always try to 
                 keep my mind working and into some action. I hate being lazy 
                 and my only aim right now is to grab the job offer at my 
