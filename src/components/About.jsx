@@ -22,10 +22,7 @@ return (
                 I am also into football and singing as I always try to 
                 keep my mind working and into some action. I hate being lazy 
                 and my only aim right now is to grab the job offer at my 
-                level best.I have also completed professional courses from
-                various platforms and participated in Diversion 2K23 , 
-                a Hackathon organized by Major League Hacking and have 
-                a sound experience of building and developing projects. 
+                level best.
             </p>
         </div>
     </div>
